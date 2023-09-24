@@ -1,5 +1,5 @@
 class Tienda_DM {
-    // comentario para añadir a github
+
 
     protected var listaCliente: MutableList<Cliente> = mutableListOf()
 
